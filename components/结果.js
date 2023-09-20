@@ -1,6 +1,7 @@
 export default {
     template: `
-  <var-result 
+    <var-paper :elevation="2">
+    <var-result 
     type="success" 
     title="成功"
     description="嗨~ 我是结果页的一段描述~"
@@ -8,6 +9,7 @@ export default {
     <template #footer>
       <var-button type="success">知道了</var-button>
     </template>
-  </var-result>
+    </var-result>
+    </var-paper>
     `
 }
