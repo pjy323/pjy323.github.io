@@ -7,7 +7,7 @@ export default {
     template: `
     <var-app-bar
       round
-      image="https://varlet.gitee.io/varlet-ui/tree.jpeg"
+      image="https://assets.soujpg.com/souJpg/images/hbVVSECEtvwFmGLgXP6cQf.webp"
       image-linear-gradient="to right top, rgba(29, 68, 147, 0.5) 0%, rgba(74, 198, 170, 0.9) 100%"
     >
       神经蛙
