@@ -6,6 +6,7 @@ const App = Vue.createApp({
     },
     template: `
     <V-导航栏/>
+    <br/>
     <V-结果/>
     `
 })
