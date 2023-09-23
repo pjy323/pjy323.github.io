@@ -5,7 +5,6 @@ export default {
     }
   },
   template: `
-  <div>
     <var-app-bar
       round
       image="https://assets.soujpg.com/souJpg/images/hbVVSECEtvwFmGLgXP6cQf.webp"
