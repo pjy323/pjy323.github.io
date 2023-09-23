@@ -1,10 +1,11 @@
 export default {
-    data() {
-        return {
-            active: 0
-        }
-    },
-    template: `
+  data() {
+    return {
+      active: 0
+    }
+  },
+  template: `
+  <div>
     <var-app-bar
       round
       image="https://assets.soujpg.com/souJpg/images/hbVVSECEtvwFmGLgXP6cQf.webp"
@@ -61,5 +62,5 @@ export default {
     </var-tabs-items>
     </var-cell>
     </var-paper>
-    `
+  `
 }
