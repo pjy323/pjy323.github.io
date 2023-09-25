@@ -7,16 +7,16 @@
   margin-bottom: 8px;
 }
 
-@media screen and (min-width: 820px) {
+@media screen and (min-width: 800px) {
   #App {
-    width: 820px;
+    width: 768px;
     margin: 60px auto;
     border: auto ridge aqua;
     padding: auto;
   }
 
   .Cards {
-    max-width: 400px;
+    max-width: 375px;
     margin-bottom: 8px;
   }
 }
