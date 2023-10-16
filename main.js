@@ -1,3 +1,4 @@
+
 console.log("main.js")
 const registerServiceWorker = async () => {
     console.log("serviceWorker");
