@@ -1,4 +1,22 @@
 .watermark-wrapper {
   width: 100%;
-  height: 1em;
+  height: 3em;
+}
+
+.Cards {
+  margin-bottom: 8px;
+}
+
+@media screen and (min-width: 800px) {
+  #App {
+    width: 768px;
+    margin: 60px auto;
+    border: auto ridge aqua;
+    padding: auto;
+  }
+
+  .Cards {
+    max-width: 375px;
+    margin-bottom: 8px;
+  }
 }
